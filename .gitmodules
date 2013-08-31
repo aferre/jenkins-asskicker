@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git://github.com/aferre/jenkins-asskicker-server.git
+[submodule "ui"]
+	path = ui
+	url = git://github.com/aferre/jenkins-asskicker-ui.git
